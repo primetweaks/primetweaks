@@ -30,6 +30,9 @@ Execute Optimizer with /restart=disabledefender switch for automated disabling
 ❓ Frequently Asked Questions
 Find answers to common queries in the FAQ Section.https://github.com/hellzerg/optimizer/blob/master/FAQ.md
 
+🔎 Join our Discord for more Tweaks 
+https://discord.gg/rmzKgBxSCn 
+
 ❤️ Translations
 We'd like to extend our gratitude to the following contributors for their translations:
 
