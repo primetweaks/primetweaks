@@ -21,3 +21,39 @@ Hardware inspection tool
 Add items to the desktop right-click menu
 Define custom commands for the run dialog
 Support silent runs using a template file
+
+🆘 How to Disable Defender in Windows 10 1903 and Later
+Restart in SAFE-MODE and run Optimizer with /disabledefender switch
+OR -
+Execute Optimizer with /restart=disabledefender switch for automated disabling
+
+❓ Frequently Asked Questions
+Find answers to common queries in the FAQ Section.https://github.com/hellzerg/optimizer/blob/master/FAQ.md
+
+❤️ Translations
+We'd like to extend our gratitude to the following contributors for their translations:
+
+Russian: mrkaban
+German: theflamehd
+Turkish: Kheasyque
+Spanish: danielcshn
+Portuguese: Cassio
+French: RAFF47
+Italian: Ziocash
+Chinese: btwise
+Czech: Tom Longhorn
+Taiwanese: H3XDaemon
+Korean: VenusGirl
+Polish: Wilamaxin
+Arabic: MesterPerfect
+Romanian: BeamingNG, DefaultUser9148
+Dutch: svanlaere
+Ukrainian: Kirill Ermakov
+Japanese: Yamada Hayao, creeper-0910
+Kurdish: Parwar Andam
+Hungarian: Zan
+Farsi: MjavadH
+Nepali: chapagetti
+Hellenic
+Bulgarian
+
