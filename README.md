@@ -4,9 +4,8 @@
 
 
 
+![Capture](https://github.com/primetweaks/primetweaks/assets/166761519/cb7a63c4-1d59-434b-90b1-c3d5c2e4774a)
 
-<p align="center">
-[Capture](https://github.com/primetweaks/primetweaks/assets/166761519/8a0f1993-660f-4f31-9512-7bfcc333c1d5)
  ## 🏗️ Key Features:
 Full multilingual support (24 languages available)
 Enhance system and network performance
