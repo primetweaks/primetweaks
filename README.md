@@ -1,5 +1,6 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/banner.png">
+   <img src="![Capture](https://github.com/primetweaks/primetweaks/assets/166761519/0ded6838-fa8c-4b8e-94ae-fd515fea23d3)
+">
 </p>
 
 <p align="center">
