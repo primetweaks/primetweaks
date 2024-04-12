@@ -5,7 +5,7 @@
 
 ![Capture](https://github.com/primetweaks/primetweaks/assets/166761519/341ada6d-c613-432c-b403-9dd8e5c2de35)
 ![download-button](https://github.com/primetweaks/primetweaks/assets/166761519/91ed659f-bea8-4315-822e-9965b079709b)
-https://github.com/primetweaks/primetweaks/blob/main/PRIMETWEAKV1.bat
+[https://github.com/primetweaks/primetweaks/blob/main/PRIMETWEAKV1.bat](https://github.com/primetweaks/primetweaks/blob/main/PRIMETWEAKV1.bat)
 
 
 
