@@ -3,12 +3,11 @@
 
 
 
+![Capture](https://github.com/primetweaks/primetweaks/assets/166761519/341ada6d-c613-432c-b403-9dd8e5c2de35)
+![download-button](https://github.com/primetweaks/primetweaks/assets/166761519/91ed659f-bea8-4315-822e-9965b079709b)
+https://github.com/primetweaks/primetweaks/blob/main/PRIMETWEAKV1.bat
 
-<p align="center">
-	<a href=["https://github.com/primetweaks/primetweaks/blob/main/PRIMETWEAKV1.bat"]
-		<img src=![download-button](https://github.com/primetweaks/primetweaks/assets/166761519/628c5f35-1226-42d0-a674-eb8ab118467b)>
-		<br>
-		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
+
 
  ## 🏗️ Key Features:
 Full multilingual support (24 languages available)
