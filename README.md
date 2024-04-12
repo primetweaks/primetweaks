@@ -1,3 +1,4 @@
+
  ## 🏗️ Key Features:
 Full multilingual support (24 languages available)
 Enhance system and network performance
@@ -21,6 +22,9 @@ Hardware inspection tool
 Add items to the desktop right-click menu
 Define custom commands for the run dialog
 Support silent runs using a template file
+
+💻 SCREENSHOTS ![Capture](https://github.com/primetweaks/primetweaks/assets/166761519/98eb8722-fd74-491d-8fd6-23eaa3578248)
+
 
 🆘 How to Disable Defender in Windows 10 1903 and Later
 Restart in SAFE-MODE and run Optimizer with /disabledefender switch
