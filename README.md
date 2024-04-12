@@ -1,3 +1,10 @@
+![download-button](https://github.com/primetweaks/primetweaks/assets/166761519/5a08aa38-3364-443a-9031-92dbf006d595)
+
+
+
+
+
+
 
  ## 🏗️ Key Features:
 Full multilingual support (24 languages available)
@@ -23,7 +30,7 @@ Add items to the desktop right-click menu
 Define custom commands for the run dialog
 Support silent runs using a template file
 
-💻 SCREENSHOTS ![Capture](https://github.com/primetweaks/primetweaks/assets/166761519/98eb8722-fd74-491d-8fd6-23eaa3578248)
+
 
 
 🆘 How to Disable Defender in Windows 10 1903 and Later
